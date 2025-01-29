@@ -17,6 +17,6 @@
     "service_worker": "background.js"
   },
   "author": "Imanol Santiago",
-  "homepage_url": "https://github.com/tu-repo",
+  "homepage_url": "https://github.com/ImanolSantiago/YT-sin-galletas",
   "license": "Apache-2.0"
 }
